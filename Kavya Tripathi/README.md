@@ -1,4 +1,4 @@
-{{cookiecutter.project_name}}
+Sales Prediction
 ==============================
 
 {{cookiecutter.description}}
