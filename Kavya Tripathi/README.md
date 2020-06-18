@@ -1,7 +1,6 @@
 Sales Prediction
 ==============================
 
-{{cookiecutter.description}}
 
 Project Organization
 ------------
