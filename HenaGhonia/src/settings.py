@@ -15,7 +15,7 @@ external_data = os.path.join(data_folder, 'external')
 test_data = os.path.join(data_folder, 'test')
 processed_data = os.path.join(data_folder, 'processed')
 logg= os.path.join(project_dir, 'logs')
-#one_drive = os.path.realpath(r'C:\Users\hayesgr\OneDrive - Ecolab\FRS\foodsafety\Category-Question Maps')
+
 
 
 # Models
